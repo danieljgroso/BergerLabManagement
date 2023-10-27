@@ -11,6 +11,7 @@ assignees: saksham132
 ### Ordering​ @user 
 ### Receiving @user 
 ### Whole-lab Inventory @user
+### MoRE Sample Drop-off @user
 
 Monday
 - [ ] Water bath (not needed today)
