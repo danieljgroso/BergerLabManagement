@@ -14,33 +14,37 @@ assignees: saksham132
 ### MoRE Sample Drop-off @user
 
 Monday
-- [ ] Water bath (not needed today)
-- [ ] Labware and consumables like pipettes and flasks​
+- [ ] Water bath 
+- [ ] Labware and consumables ​
 - [ ] Empty glassware cart 
-- [ ] TC trash cart @danieljgroso 
+- [ ] TC trash cart  
 - [ ] Ordering 
-- [ ] EtOH (not needed today, will check if needed later in the week)
+- [ ] EtOH 
 
 Tuesday
-- [ ] Empty glassware cart @saksham132 
+- [ ] Empty glassware cart 
 - [ ] Ordering 
-- [ ] Labware and consumables like pipettes and flasks​ 
 - [ ] Receiving
 
 Weds 
 - [ ] TC stocking of consumables
 - [ ] Empty glassware cart
 - [ ] Receiving
-- [ ] TC trash cart @danieljgroso 
+- [ ] TC trash cart 
 - [ ] Ordering
 
 Thursday 
-- [ ] Labware and consumables like pipettes and flasks​
+- [ ] Labware and consumables 
 - [ ] Receiving
-- [ ] TC Trash Cart @saksham132 
+- [ ] TC Trash Cart
+- [ ] Ordering
 
 Friday
-- [ ] TC trash cart @saksham132
+- [ ] TC trash cart 
 - [ ] Incubator Water
 - [ ] Labware and consumables
 - [ ] Ordering
+- [ ] Receiving
+
+Miscellaneous:
+- [ ] FBS Aliquoting
