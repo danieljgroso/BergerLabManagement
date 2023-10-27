@@ -1,6 +1,6 @@
 ---
 name: Weekly Lab Management
-about: 'Issues template for general lab maintenance '
+about: 'General lab maintenance '
 title: "[Lab Duties] Week of Month Day"
 labels: ''
 assignees: saksham132
